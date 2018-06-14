@@ -1,0 +1,2 @@
+xdag client/server, version 0.2.4.
+Current connections:
